@@ -17,7 +17,7 @@ Use the iris dataset from scikit-learn
 5.	Create a set slides with the highlights of Jupyter notebook report. Explain the unsupervised machine learning process, model building, evaluation and conclusion. 
 
 ##### Attachment 
-Presentation Slides can be found [here] (https://drive.google.com/file/d/1YTy3Bdm3zBWZhZQpaZMedwMoqKh8WXcY/view?usp=sharing)
+Presentation Slides can be found [here](https://drive.google.com/file/d/1YTy3Bdm3zBWZhZQpaZMedwMoqKh8WXcY/view?usp=sharing)
 
 
 
